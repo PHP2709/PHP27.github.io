@@ -13,7 +13,7 @@
 
 body {
   font-family: "Comic Sans MS";
-  background-color: #0bd1f4;
+  background-color: #2d5c65;
 }
 
 .main-content {
@@ -32,7 +32,7 @@ body {
     0 4px 6px rgb(0 0 0 / 12%), 0 12px 13px rgb(0 0 0 / 17%),
     0 -3px 5px rgb(0 0 0 / 9%);
     border-radius: 50px;
-  background-color: rgb(227, 98, 86);
+  background-color: rgb(172, 171, 171);
 }
 
 .profile-picture {
@@ -205,7 +205,7 @@ body {
     0 4px 6px rgb(0 0 0 / 12%), 0 12px 13px rgb(0 0 0 / 17%),
     0 -3px 5px rgb(0 0 0 / 9%);
     border-radius: 50px;
-  background-color: rgb(255, 149, 62);
+  background-color: rgb(255, 62, 62);
   color: rgb(47, 108, 241);
   gap: 2rem;
 }
